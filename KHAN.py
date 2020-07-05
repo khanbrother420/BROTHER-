@@ -107,8 +107,8 @@ IT’S NOT JUST A NAME. IT'S A BRAND
 
 """
 
-CorrectUsername = "HACKER"
-CorrectPassword = "HACK"
+CorrectUsername = "KHAN"
+CorrectPassword = "KHAN"
 loop = 'true'
 while (loop == 'true'):
     username = raw_input("\033[1;91m📋 \x1b[1;95mTool Username \x1b[1;91m»» \x1b[1;91m")
@@ -231,7 +231,7 @@ def pilih():
 	elif unikers =="2":
 		os.system('clear')
 		print logo
-		print " \033[1;36;40m◄══════════════════💥══════════════════►\n"
+		print " \033[1;36;40m◄══════════════════🔥══════════════════►\n"
 		os.system('git pull origin master')
 		raw_input('\n\x1b[1;91m[ \x1b[1;97mBack \x1b[1;91m]')
 		menu()
@@ -303,11 +303,11 @@ def pilih_super():
 	titik = ['.   ','..  ','... ']
 	for o in titik:
 		print("\r\033[1;32;40m[✺] Hacking\033[1;93m"+o),;sys.stdout.flush();time.sleep(1)
-	print "\n\033[1;94m        ❈     \x1b[1;91mTo Stop Process Press CTRL+Z \033[1;94m    ❈"
-	print "   \033[1;92m◄══════════════════💥══════════════════►"
+	print "\n\033[1;94m  ❈ \x1b[1;91mTo Stop Process Press CTRL+Z \033[1;94m❈"
+	print "   \033[1;92m    ◄══════════════════🔥══════════════════►"
 
-	jalan('          \033[1;91mKHAN X BROTHER Start hacking Wait...')
-	print  "  \033[1;92m ◄══════════════════💥══════════════════►" 
+	jalan('                \033[1;91mKHAN X BROTHER Start hacking Wait...')
+	print  "  \033[1;92m    ◄══════════════════🔥══════════════════►" 
 
 	def main(arg):
 		global cekpoint,oks
@@ -526,7 +526,7 @@ def pilih_super():
 	p.map(main, id)
 	print "\033[1;95m•◈•▬ ▬ ▬•◈\033[1;91mKHAN-BROTHER\033[1;95m◈•▬ ▬ ▬•◈•"
 	print "  \033[1;91m«---•◈•---Developed By KHAN-BROTHER--•◈•---»" #Dev:Jam
-	print '\033[1;93m✅Process Has Been Completed Press➡ Ctrl+Z.↩ Next Type (python2 HACK.py)↩\033[1;97m....'
+	print '\033[1;93m✅Process Has Been Completed Press➡ Ctrl+Z.↩ Next Type (python2 KHAN.py)↩\033[1;97m....'
 	print"\033[1;91mTotal OK/\x1b[1;95mCP \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint))
 	print """
 
@@ -542,7 +542,7 @@ def pilih_super():
 : \033[1;91m ..KHAN-x-BROTHER Creations.. \033[1;95m :
 •\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
                 Facebook
-              \033[1;91mMr.KHANVAU420"""
+              \033[1;91mMr.KhanVau420"""
 	
 	raw_input("\n\033[1;95m[\033[1;91mBack\033[1;95m]")
 	menu()
